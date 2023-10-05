@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+
+.custom-logo i {
+    color: white;
+}
+
+
+.card-body {
+    background-color: rgb(137, 194, 51);
+    align-items: center;
+
+}
+
+.card-body h1 {
+    color: whitesmoke;
+    margin-top: 10px;
+
+}
+
+.card-body p {
+    color: whitesmoke;
+}
+
+.card-body a {
+    margin-bottom: 30px;
+}
+
+
+.white-portion h4 {
+    color: rgb(112, 112, 251);
+}
+
+.superior h3,
+.superior p {
+    display: inline-block;
+    margin: 0;
+    vertical-align: bottom;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.superior h3 {
+    margin-top: 30px;
+
+}
+
+.orange-portion img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.card-body-orange {
+    background-color: orange;
+    color: black;
+}
+
+.orange-portion {
+    background-color: orange;
+
+}
+
+.orange-portion img {
+    margin-bottom: 10px;
+}
+
+.orange-portion p {
+    color: black;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.orange-portion a {
+    margin-bottom: 30px;
+}
+
+
+.testimonial {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.testimonial h5 {
+    text-align: center;
+    color: blue;
+}
+
+.testimonial p {
+    text-align: center;
+
+}
